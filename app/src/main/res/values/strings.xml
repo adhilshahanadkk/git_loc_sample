@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="map_key" translatable="false">AIzaSyBB31qKGdZeLTbKPphIg3lG4iCbgOqdgmE</string>
+</resources>

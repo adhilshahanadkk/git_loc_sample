@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725926877260",
+    "project_id": "onbuz-driver",
+    "storage_bucket": "onbuz-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725926877260:android:975ec1bef0cc85ffde7ce9",
+        "android_client_info": {
+          "package_name": "app.com.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725926877260-6cf4j9h4fu5hur64vetj0o5ch290na4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaZEIer3906tUEcBN9HeDq1OcxeE2N4Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725926877260-6cf4j9h4fu5hur64vetj0o5ch290na4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
